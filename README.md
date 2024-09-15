@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm Ana, a junior programmer passionate about continuous learning and improving through software development projects. At 32 years old, originally from Mexico, I now reside in Canada, where I blend my multicultural experience with a growth mindset and adaptability.<br><br>My goal is to keep expanding my knowledge in emerging technologies while contributing to impactful projects. I’m known for being proactive, a problem-solver, and a team player. I’m always looking for opportunities to grow and bring my unique perspective as a developer.<br><br>I'm ready to take on new challenges and keep evolving as a professional!
+I'm Ana, an engineer and junior programmer with a passion for continuous learning and improvement. Since beginning my career in the industrial sector, I’ve found a strong commitment to enhancing businesses through technology. I’ve worked closely with industrial leaders in logistics and quality, improving companies' value propositions and building strong professional relationships.
+Currently studying programming in Montreal, I’m focused on expanding my knowledge in emerging technologies. Known for being proactive, a problem-solver, and a team player, I’m always looking for opportunities to grow and take on new challenges in impactful projects.
 
 
 ## 🌐 Socials:
